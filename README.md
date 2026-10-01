@@ -432,11 +432,14 @@ Instead of crashing, the application asks the user to enter a valid value. A cal
 
 ## Author
 
-**Lara**
+<div align="center">
 
-Informatikerin EFZ - Applikationsentwicklung
+### Lara Saurer
 
-Switzerland
+**Informatikerin EFZ - Applikationsentwicklung**<br>
+Bern, Switzerland
+
+</div>
 
 ---
 
