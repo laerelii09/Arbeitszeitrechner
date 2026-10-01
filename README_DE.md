@@ -432,14 +432,11 @@ Anstatt abzustürzen, fordert die Anwendung zur erneuten Eingabe eines gültigen
 
 ## Autorin
 
-<div align="center">
+**Lara Saurer**
 
-### Lara Saurer
+Informatikerin EFZ - Applikationsentwicklung
 
-**Informatikerin EFZ - Applikationsentwicklung**<br>
 Bern, Schweiz
-
-</div>
 
 ---
 
